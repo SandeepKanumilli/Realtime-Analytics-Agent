@@ -1,0 +1,17 @@
+[project]
+name = "realtime-analyticsagent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Ganesh Sandeep Kanumilli", email = "89462870+SandeepKanumilli@users.noreply.github.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[project.scripts]
+realtime-analyticsagent = "realtime_analyticsagent:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
