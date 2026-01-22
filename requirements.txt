@@ -1,0 +1,14 @@
+mistralai
+langchain
+langchain-mistralai
+langchain-anthropic
+langchain-community
+langchain-experimental
+langchain-core
+langgraph
+tavily-python
+fastapi
+uvicorn
+streamlit
+python-dotenv
+httpx
